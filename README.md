@@ -6,9 +6,12 @@ extra features to BC Liquor shiny app and deployed it.
 
 # Quick Link
 
-Here is the [link]() of my shiny app.
+Here is the [link](https://maggieyumq.shinyapps.io/bcl_meiqiyu/) of my
+shiny app.
 
-Here is the [link]() of the R code.
+Here is the
+[link](https://github.com/STAT545-UBC-students/hw08-MeiqiYu/blob/master/bcl_meiqiyu/app.R)
+of the R code.
 
 # Feaures I added
 
